@@ -1,6 +1,5 @@
 package ru.stqa.pft.sandbox;
 
-import org.w3c.dom.ls.LSOutput;
 
 public class MyFirstProgram {
 
