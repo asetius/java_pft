@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.stqa.pft.addressbook.selenide.tests.CreateGroupTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-16T21:31:34" hostname="DESKTOP-8RJI708" time="4.499">
+  <properties/>
+  <testcase name="testCreateGroup" classname="ru.stqa.pft.addressbook.selenide.tests.CreateGroupTest" time="4.499"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 11690
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Apr 17, 2020 3:31:36 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1587072697.456][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>
