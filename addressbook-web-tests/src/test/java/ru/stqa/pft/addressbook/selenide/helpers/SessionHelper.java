@@ -11,8 +11,8 @@ public class SessionHelper {
   }
 
   public static void login() {
-    $(byName("user")).setValue("admin");
-    $(byName("pass")).setValue("secret");
+    $(byName("user")).val("admin");
+    $(byName("pass")).val("secret");
     $(byValue("Login")).click();
   }
 }
