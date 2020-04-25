@@ -12,7 +12,6 @@ repositories {
 
 dependencies {
     compile group: 'org.testng', name: 'testng', version: '7.1.0'
-
 }
 
 test {
